@@ -1,5 +1,5 @@
 # Large Scale Data Processing: Final Project
-## Graph matching
+
 For the final project, you are provided 6 CSV files, each containing an undirected graph, which can be found [here](https://drive.google.com/file/d/1khb-PXodUl82htpyWLMGGNrx-IzC55w8/view?usp=sharing). The files are as follows:  
 
 |           File name           |        Number of edges       |
